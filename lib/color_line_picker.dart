@@ -86,21 +86,3 @@ class _ColorLinePickerState extends State<ColorLinePicker> {
     );
   }
 }
-
-// ColorLinePicker(
-//   widgetHeigh: 50,
-//   colorBoxWidth: 50,
-//   colorBoxRadius: 10,
-//   colorBoxPaddingHorizontal: 3,
-//   children: [
-//     Renkler.dark,
-//     Renkler.green,
-//     Renkler.primary,
-//     Renkler.dark,
-//     Renkler.green,
-//     Renkler.primary,
-//     Renkler.dark,
-//     Renkler.green,
-//     Renkler.primary,
-//   ],
-// )
