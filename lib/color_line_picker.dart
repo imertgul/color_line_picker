@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Color_item.dart';
+import 'color_item.dart';
 
 typedef OnColorSelected = void Function(int);
 
@@ -28,7 +28,7 @@ class ColorLinePicker extends StatefulWidget {
 }
 
 class _ColorLinePickerState extends State<ColorLinePicker> {
-  List<ColorItem> boxList = List<ColorItem>();
+  List<ColorItem> boxList = [];
 
   _exportIndex(int index) {
     widget.onColorSelected(index);

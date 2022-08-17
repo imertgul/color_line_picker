@@ -1,7 +1,6 @@
 name: color_line_picker
 description: This package helps you to create color palette as horizontal list. Able to detech which color picked and returns it.
-version: 0.0.1
-author: ibrahimmertgul@gmail.com
+version: 0.1.0
 homepage: https://github.com/imertgul/color_line_picker
 
 environment:

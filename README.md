@@ -60,8 +60,3 @@ ColorLinePicker(
    ],
  ),
 ```
-  
-And you can print like:
- ```dart
- Text("Selected color index is: $_selectedColorIndexTwo")
- ```
